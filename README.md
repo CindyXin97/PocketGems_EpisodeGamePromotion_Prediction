@@ -27,6 +27,7 @@ Note: The promotion is a two-for-one offer. We will not be reducing prices. Inst
 ### Methods 
 
 1.  I used clustering methods for all the users who have gotten the gems, as it will exclude some users are really new to the game. Then I got 2 Clusters.
+![image](https://github.com/CindyXin97/PocketGems_EpisodeGamePromotion_Prediction/blob/master/Image/Screen%20Shot%202020-05-09%20at%2010.46.16%20PM.png)
 
 2. By looking into these 2 clusters, and conducting T-test, these two groups have significant differences in purchasing behavior and Rev, then we believe that Group1 are more likely to purchase. Then I selected all the people in Group 1 who haven't had any purchasing behavior as Type 1.
 
